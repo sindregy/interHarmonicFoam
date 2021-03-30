@@ -1,0 +1,1 @@
+A code based on interFoam, where the viscosity is calculated as a harmonic mean. 

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "controlDict": "OpenFOAM",
+        "boundary": "OpenFOAM",
+        "transportProperties": "OpenFOAM",
+        "harmIncompressibleTwoPhaseMixture.C": "cpp"
+    }
+}

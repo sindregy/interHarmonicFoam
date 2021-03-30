@@ -1,0 +1,5 @@
+#!/bin/sh
+
+wmake harmImmiscibleIncompressibleTwoPhaseMixture/harmIncompressibleTwoPhaseMixture/
+wmake harmImmiscibleIncompressibleTwoPhaseMixture
+wmake

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+wclean harmImmiscibleIncompressibleTwoPhaseMixture/harmIncompressibleTwoPhaseMixture/
+wclean harmImmiscibleIncompressibleTwoPhaseMixture
+wclean
